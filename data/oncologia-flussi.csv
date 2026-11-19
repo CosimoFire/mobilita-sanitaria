@@ -1,0 +1,442 @@
+provenienza;destinazione;ricoveri
+Abruzzo;Abruzzo;4912
+Abruzzo;Basilicata;0
+Abruzzo;Calabria;0
+Abruzzo;Campania;20
+Abruzzo;Emilia-Romagna;150
+Abruzzo;Friuli-Venezia Giulia;5
+Abruzzo;Lazio;611
+Abruzzo;Liguria;3
+Abruzzo;Lombardia;212
+Abruzzo;Marche;176
+Abruzzo;Molise;37
+Abruzzo;P.A. Bolzano;2
+Abruzzo;P.A. Trento;1
+Abruzzo;Piemonte;23
+Abruzzo;Puglia;23
+Abruzzo;Sardegna;0
+Abruzzo;Sicilia;1
+Abruzzo;Toscana;120
+Abruzzo;Umbria;3
+Abruzzo;Valle d'Aosta;0
+Abruzzo;Veneto;75
+Basilicata;Abruzzo;2
+Basilicata;Basilicata;1185
+Basilicata;Calabria;2
+Basilicata;Campania;68
+Basilicata;Emilia-Romagna;54
+Basilicata;Friuli-Venezia Giulia;1
+Basilicata;Lazio;226
+Basilicata;Liguria;4
+Basilicata;Lombardia;157
+Basilicata;Marche;5
+Basilicata;Molise;6
+Basilicata;P.A. Bolzano;2
+Basilicata;P.A. Trento;1
+Basilicata;Piemonte;14
+Basilicata;Puglia;363
+Basilicata;Sardegna;0
+Basilicata;Sicilia;0
+Basilicata;Toscana;76
+Basilicata;Umbria;2
+Basilicata;Valle d'Aosta;0
+Basilicata;Veneto;29
+Calabria;Abruzzo;4
+Calabria;Basilicata;90
+Calabria;Calabria;3532
+Calabria;Campania;95
+Calabria;Emilia-Romagna;236
+Calabria;Friuli-Venezia Giulia;10
+Calabria;Lazio;987
+Calabria;Liguria;28
+Calabria;Lombardia;933
+Calabria;Marche;13
+Calabria;Molise;13
+Calabria;P.A. Bolzano;0
+Calabria;P.A. Trento;6
+Calabria;Piemonte;178
+Calabria;Puglia;240
+Calabria;Sardegna;1
+Calabria;Sicilia;298
+Calabria;Toscana;341
+Calabria;Umbria;17
+Calabria;Valle d'Aosta;1
+Calabria;Veneto;240
+Campania;Abruzzo;29
+Campania;Basilicata;123
+Campania;Calabria;8
+Campania;Campania;19143
+Campania;Emilia-Romagna;151
+Campania;Friuli-Venezia Giulia;14
+Campania;Lazio;1197
+Campania;Liguria;23
+Campania;Lombardia;833
+Campania;Marche;18
+Campania;Molise;257
+Campania;P.A. Bolzano;2
+Campania;P.A. Trento;2
+Campania;Piemonte;92
+Campania;Puglia;200
+Campania;Sardegna;3
+Campania;Sicilia;7
+Campania;Toscana;547
+Campania;Umbria;17
+Campania;Valle d'Aosta;2
+Campania;Veneto;348
+Emilia-Romagna;Abruzzo;4
+Emilia-Romagna;Basilicata;2
+Emilia-Romagna;Calabria;2
+Emilia-Romagna;Campania;16
+Emilia-Romagna;Emilia-Romagna;20478
+Emilia-Romagna;Friuli-Venezia Giulia;16
+Emilia-Romagna;Lazio;37
+Emilia-Romagna;Liguria;44
+Emilia-Romagna;Lombardia;791
+Emilia-Romagna;Marche;107
+Emilia-Romagna;Molise;0
+Emilia-Romagna;P.A. Bolzano;3
+Emilia-Romagna;P.A. Trento;1
+Emilia-Romagna;Piemonte;30
+Emilia-Romagna;Puglia;10
+Emilia-Romagna;Sardegna;2
+Emilia-Romagna;Sicilia;4
+Emilia-Romagna;Toscana;128
+Emilia-Romagna;Umbria;5
+Emilia-Romagna;Valle d'Aosta;4
+Emilia-Romagna;Veneto;359
+Friuli-Venezia Giulia;Abruzzo;0
+Friuli-Venezia Giulia;Basilicata;0
+Friuli-Venezia Giulia;Calabria;0
+Friuli-Venezia Giulia;Campania;4
+Friuli-Venezia Giulia;Emilia-Romagna;35
+Friuli-Venezia Giulia;Friuli-Venezia Giulia;5687
+Friuli-Venezia Giulia;Lazio;17
+Friuli-Venezia Giulia;Liguria;2
+Friuli-Venezia Giulia;Lombardia;74
+Friuli-Venezia Giulia;Marche;0
+Friuli-Venezia Giulia;Molise;0
+Friuli-Venezia Giulia;P.A. Bolzano;1
+Friuli-Venezia Giulia;P.A. Trento;0
+Friuli-Venezia Giulia;Piemonte;5
+Friuli-Venezia Giulia;Puglia;0
+Friuli-Venezia Giulia;Sardegna;0
+Friuli-Venezia Giulia;Sicilia;0
+Friuli-Venezia Giulia;Toscana;19
+Friuli-Venezia Giulia;Umbria;0
+Friuli-Venezia Giulia;Valle d'Aosta;0
+Friuli-Venezia Giulia;Veneto;376
+Lazio;Abruzzo;220
+Lazio;Basilicata;1
+Lazio;Calabria;5
+Lazio;Campania;143
+Lazio;Emilia-Romagna;82
+Lazio;Friuli-Venezia Giulia;2
+Lazio;Lazio;25236
+Lazio;Liguria;6
+Lazio;Lombardia;204
+Lazio;Marche;49
+Lazio;Molise;109
+Lazio;P.A. Bolzano;2
+Lazio;P.A. Trento;3
+Lazio;Piemonte;23
+Lazio;Puglia;19
+Lazio;Sardegna;10
+Lazio;Sicilia;18
+Lazio;Toscana;291
+Lazio;Umbria;246
+Lazio;Valle d'Aosta;0
+Lazio;Veneto;139
+Liguria;Abruzzo;0
+Liguria;Basilicata;0
+Liguria;Calabria;3
+Liguria;Campania;0
+Liguria;Emilia-Romagna;34
+Liguria;Friuli-Venezia Giulia;1
+Liguria;Lazio;17
+Liguria;Liguria;6226
+Liguria;Lombardia;619
+Liguria;Marche;0
+Liguria;Molise;0
+Liguria;P.A. Bolzano;0
+Liguria;P.A. Trento;1
+Liguria;Piemonte;368
+Liguria;Puglia;0
+Liguria;Sardegna;0
+Liguria;Sicilia;1
+Liguria;Toscana;444
+Liguria;Umbria;6
+Liguria;Valle d'Aosta;1
+Liguria;Veneto;57
+Lombardia;Abruzzo;7
+Lombardia;Basilicata;0
+Lombardia;Calabria;10
+Lombardia;Campania;20
+Lombardia;Emilia-Romagna;360
+Lombardia;Friuli-Venezia Giulia;12
+Lombardia;Lazio;47
+Lombardia;Liguria;49
+Lombardia;Lombardia;41416
+Lombardia;Marche;4
+Lombardia;Molise;4
+Lombardia;P.A. Bolzano;6
+Lombardia;P.A. Trento;10
+Lombardia;Piemonte;287
+Lombardia;Puglia;23
+Lombardia;Sardegna;3
+Lombardia;Sicilia;25
+Lombardia;Toscana;71
+Lombardia;Umbria;1
+Lombardia;Valle d'Aosta;2
+Lombardia;Veneto;950
+Marche;Abruzzo;22
+Marche;Basilicata;2
+Marche;Calabria;2
+Marche;Campania;7
+Marche;Emilia-Romagna;366
+Marche;Friuli-Venezia Giulia;0
+Marche;Lazio;144
+Marche;Liguria;7
+Marche;Lombardia;403
+Marche;Marche;6380
+Marche;Molise;3
+Marche;P.A. Bolzano;0
+Marche;P.A. Trento;1
+Marche;Piemonte;18
+Marche;Puglia;1
+Marche;Sardegna;0
+Marche;Sicilia;4
+Marche;Toscana;201
+Marche;Umbria;67
+Marche;Valle d'Aosta;0
+Marche;Veneto;160
+Molise;Abruzzo;219
+Molise;Basilicata;2
+Molise;Calabria;0
+Molise;Campania;61
+Molise;Emilia-Romagna;53
+Molise;Friuli-Venezia Giulia;0
+Molise;Lazio;241
+Molise;Liguria;0
+Molise;Lombardia;62
+Molise;Marche;19
+Molise;Molise;601
+Molise;P.A. Bolzano;0
+Molise;P.A. Trento;2
+Molise;Piemonte;7
+Molise;Puglia;50
+Molise;Sardegna;0
+Molise;Sicilia;2
+Molise;Toscana;17
+Molise;Umbria;8
+Molise;Valle d'Aosta;0
+Molise;Veneto;27
+P.A. Bolzano;Abruzzo;0
+P.A. Bolzano;Basilicata;0
+P.A. Bolzano;Calabria;0
+P.A. Bolzano;Campania;0
+P.A. Bolzano;Emilia-Romagna;3
+P.A. Bolzano;Friuli-Venezia Giulia;1
+P.A. Bolzano;Lazio;3
+P.A. Bolzano;Liguria;0
+P.A. Bolzano;Lombardia;32
+P.A. Bolzano;Marche;0
+P.A. Bolzano;Molise;0
+P.A. Bolzano;P.A. Bolzano;1838
+P.A. Bolzano;P.A. Trento;11
+P.A. Bolzano;Piemonte;0
+P.A. Bolzano;Puglia;2
+P.A. Bolzano;Sardegna;0
+P.A. Bolzano;Sicilia;0
+P.A. Bolzano;Toscana;2
+P.A. Bolzano;Umbria;0
+P.A. Bolzano;Valle d'Aosta;0
+P.A. Bolzano;Veneto;116
+P.A. Trento;Abruzzo;0
+P.A. Trento;Basilicata;0
+P.A. Trento;Calabria;1
+P.A. Trento;Campania;2
+P.A. Trento;Emilia-Romagna;24
+P.A. Trento;Friuli-Venezia Giulia;3
+P.A. Trento;Lazio;6
+P.A. Trento;Liguria;1
+P.A. Trento;Lombardia;99
+P.A. Trento;Marche;2
+P.A. Trento;Molise;0
+P.A. Trento;P.A. Bolzano;74
+P.A. Trento;P.A. Trento;1844
+P.A. Trento;Piemonte;4
+P.A. Trento;Puglia;1
+P.A. Trento;Sardegna;0
+P.A. Trento;Sicilia;0
+P.A. Trento;Toscana;4
+P.A. Trento;Umbria;0
+P.A. Trento;Valle d'Aosta;0
+P.A. Trento;Veneto;399
+Piemonte;Abruzzo;5
+Piemonte;Basilicata;0
+Piemonte;Calabria;2
+Piemonte;Campania;14
+Piemonte;Emilia-Romagna;43
+Piemonte;Friuli-Venezia Giulia;1
+Piemonte;Lazio;11
+Piemonte;Liguria;170
+Piemonte;Lombardia;1176
+Piemonte;Marche;2
+Piemonte;Molise;0
+Piemonte;P.A. Bolzano;3
+Piemonte;P.A. Trento;0
+Piemonte;Piemonte;19752
+Piemonte;Puglia;4
+Piemonte;Sardegna;5
+Piemonte;Sicilia;6
+Piemonte;Toscana;47
+Piemonte;Umbria;3
+Piemonte;Valle d'Aosta;62
+Piemonte;Veneto;59
+Puglia;Abruzzo;46
+Puglia;Basilicata;46
+Puglia;Calabria;12
+Puglia;Campania;68
+Puglia;Emilia-Romagna;214
+Puglia;Friuli-Venezia Giulia;18
+Puglia;Lazio;488
+Puglia;Liguria;14
+Puglia;Lombardia;1091
+Puglia;Marche;20
+Puglia;Molise;48
+Puglia;P.A. Bolzano;9
+Puglia;P.A. Trento;2
+Puglia;Piemonte;78
+Puglia;Puglia;15947
+Puglia;Sardegna;0
+Puglia;Sicilia;8
+Puglia;Toscana;329
+Puglia;Umbria;3
+Puglia;Valle d'Aosta;2
+Puglia;Veneto;257
+Sardegna;Abruzzo;0
+Sardegna;Basilicata;0
+Sardegna;Calabria;0
+Sardegna;Campania;8
+Sardegna;Emilia-Romagna;52
+Sardegna;Friuli-Venezia Giulia;4
+Sardegna;Lazio;137
+Sardegna;Liguria;18
+Sardegna;Lombardia;766
+Sardegna;Marche;7
+Sardegna;Molise;0
+Sardegna;P.A. Bolzano;1
+Sardegna;P.A. Trento;1
+Sardegna;Piemonte;92
+Sardegna;Puglia;1
+Sardegna;Sardegna;5292
+Sardegna;Sicilia;2
+Sardegna;Toscana;88
+Sardegna;Umbria;1
+Sardegna;Valle d'Aosta;0
+Sardegna;Veneto;102
+Sicilia;Abruzzo;2
+Sicilia;Basilicata;2
+Sicilia;Calabria;28
+Sicilia;Campania;29
+Sicilia;Emilia-Romagna;228
+Sicilia;Friuli-Venezia Giulia;43
+Sicilia;Lazio;273
+Sicilia;Liguria;27
+Sicilia;Lombardia;1209
+Sicilia;Marche;17
+Sicilia;Molise;1
+Sicilia;P.A. Bolzano;2
+Sicilia;P.A. Trento;2
+Sicilia;Piemonte;156
+Sicilia;Puglia;27
+Sicilia;Sardegna;2
+Sicilia;Sicilia;16536
+Sicilia;Toscana;336
+Sicilia;Umbria;4
+Sicilia;Valle d'Aosta;1
+Sicilia;Veneto;796
+Toscana;Abruzzo;0
+Toscana;Basilicata;4
+Toscana;Calabria;3
+Toscana;Campania;11
+Toscana;Emilia-Romagna;167
+Toscana;Friuli-Venezia Giulia;11
+Toscana;Lazio;155
+Toscana;Liguria;34
+Toscana;Lombardia;374
+Toscana;Marche;11
+Toscana;Molise;1
+Toscana;P.A. Bolzano;3
+Toscana;P.A. Trento;2
+Toscana;Piemonte;28
+Toscana;Puglia;5
+Toscana;Sardegna;0
+Toscana;Sicilia;0
+Toscana;Toscana;19460
+Toscana;Umbria;50
+Toscana;Valle d'Aosta;0
+Toscana;Veneto;93
+Umbria;Abruzzo;1
+Umbria;Basilicata;0
+Umbria;Calabria;0
+Umbria;Campania;3
+Umbria;Emilia-Romagna;56
+Umbria;Friuli-Venezia Giulia;2
+Umbria;Lazio;269
+Umbria;Liguria;2
+Umbria;Lombardia;140
+Umbria;Marche;68
+Umbria;Molise;0
+Umbria;P.A. Bolzano;0
+Umbria;P.A. Trento;1
+Umbria;Piemonte;4
+Umbria;Puglia;0
+Umbria;Sardegna;0
+Umbria;Sicilia;2
+Umbria;Toscana;390
+Umbria;Umbria;3520
+Umbria;Valle d'Aosta;0
+Umbria;Veneto;82
+Valle d'Aosta;Abruzzo;0
+Valle d'Aosta;Basilicata;0
+Valle d'Aosta;Calabria;0
+Valle d'Aosta;Campania;0
+Valle d'Aosta;Emilia-Romagna;0
+Valle d'Aosta;Friuli-Venezia Giulia;0
+Valle d'Aosta;Lazio;1
+Valle d'Aosta;Liguria;3
+Valle d'Aosta;Lombardia;25
+Valle d'Aosta;Marche;0
+Valle d'Aosta;Molise;0
+Valle d'Aosta;P.A. Bolzano;0
+Valle d'Aosta;P.A. Trento;0
+Valle d'Aosta;Piemonte;134
+Valle d'Aosta;Puglia;0
+Valle d'Aosta;Sardegna;0
+Valle d'Aosta;Sicilia;0
+Valle d'Aosta;Toscana;7
+Valle d'Aosta;Umbria;0
+Valle d'Aosta;Valle d'Aosta;370
+Valle d'Aosta;Veneto;3
+Veneto;Abruzzo;1
+Veneto;Basilicata;0
+Veneto;Calabria;2
+Veneto;Campania;7
+Veneto;Emilia-Romagna;147
+Veneto;Friuli-Venezia Giulia;451
+Veneto;Lazio;31
+Veneto;Liguria;8
+Veneto;Lombardia;374
+Veneto;Marche;3
+Veneto;Molise;3
+Veneto;P.A. Bolzano;21
+Veneto;P.A. Trento;13
+Veneto;Piemonte;15
+Veneto;Puglia;0
+Veneto;Sardegna;2
+Veneto;Sicilia;2
+Veneto;Toscana;36
+Veneto;Umbria;0
+Veneto;Valle d'Aosta;0
+Veneto;Veneto;24199

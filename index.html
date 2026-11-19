@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mobilità sanitaria – dataviz Radar QN</title>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,400;6..72,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/radar.css?v=2">
+<style>
+  .idx { max-width: 1180px; margin: 0 auto; padding: 24px 16px; }
+  .prev { display: flex; gap: 24px; align-items: flex-start; flex-wrap: wrap; margin-top: 16px; }
+  .prev figure { margin: 0; }
+  .prev figcaption { font-size: 12px; color: var(--ink-2); margin-bottom: 6px; }
+  .prev iframe { border: 1px solid var(--rule); background: var(--bg); display: block; }
+  pre { background: var(--tip-bg); border: 1px solid var(--rule); padding: 12px; font-size: 12px; white-space: pre-wrap; word-break: break-all; max-height: 220px; overflow: auto; }
+  button { font: 600 13px var(--sans); color: #fff; background: var(--blue); border: 0; border-radius: 2px; padding: 8px 14px; cursor: pointer; }
+  h2 { font: 700 22px var(--serif); margin: 36px 0 4px; }
+</style>
+</head>
+<body>
+<main class="idx">
+  <h1 class="r-title">Mobilità sanitaria</h1>
+  <p class="r-sub">Dataviz Radar – QN. Fonte: Svimez, Rapporto 2026, cap. 16, su dati Agenas.</p>
+
+  <h2><a href="oncologia/">In Molise e Calabria più di un ricovero oncologico su due avviene fuori regione</a></h2>
+  <p class="r-sub">Quota di ricoveri oncologici fuori regione nel Mezzogiorno e destinazioni per regione, 2024 (Svimez Tab. 3). Dati: <a href="data/oncologia-flussi.csv">data/oncologia-flussi.csv</a></p>
+  <div class="prev">
+    <figure><figcaption>Desktop (760px)</figcaption><iframe src="oncologia/" width="760" height="1250" title="Anteprima desktop"></iframe></figure>
+    <figure><figcaption>Mobile (360px)</figcaption><iframe src="oncologia/" width="360" height="1450" title="Anteprima mobile"></iframe></figure>
+  </div>
+  <p class="r-sub" style="margin-top:16px">Snippet per il CMS (iframe + script, da incollare così com'è):</p>
+  <pre id="snip0">&lt;iframe src=&quot;https://cosimofire.github.io/mobilita-sanitaria/oncologia/&quot; width=&quot;100%&quot; height=&quot;1400&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;In Molise e Calabria più di un ricovero oncologico su due avviene fuori regione&quot;&gt;&lt;/iframe&gt;
+&lt;script&gt;
+(function(){if(window.__radarQNv2)return;window.__radarQNv2=1;var O=&quot;https://cosimofire.github.io&quot;;var MQ=window.matchMedia(&quot;(prefers-color-scheme:dark)&quot;);function frames(){return Array.prototype.filter.call(document.getElementsByTagName(&quot;iframe&quot;),function(f){return(f.getAttribute(&quot;src&quot;)||&quot;&quot;).indexOf(O+&quot;/&quot;)===0;});}function theme(){var t=document.documentElement.getAttribute(&quot;data-theme&quot;);return t===&quot;dark&quot;||t===&quot;light&quot;?t:(MQ.matches?&quot;dark&quot;:&quot;light&quot;);}function bgOf(el){for(;el&amp;&amp;el.nodeType===1;el=el.parentElement){var c=getComputedStyle(el).backgroundColor;if(c&amp;&amp;c !==&quot;transparent&quot;&amp;&amp;!/rgba\([^)]*,\s*0\)$/.test(c))return c;}return null;}function send(f){try{f.contentWindow.postMessage({sentinel:&quot;radar-qn&quot;,type:&quot;theme&quot;,theme:theme(),bg:bgOf(f.parentElement)},O);}catch(e){}}function sendAll(){frames().forEach(send);}window.addEventListener(&quot;message&quot;,function(e){if(e.origin !==O)return;var d=e.data;if(!d||d.sentinel !==&quot;radar-qn&quot;||d.type !==&quot;height&quot;)return;frames().forEach(function(f){if(f.contentWindow !==e.source)return;var h=Math.ceil(+d.height);if(h &gt; 0&amp;&amp;20000 &gt; h)f.style.height=h+&quot;px&quot;;send(f);});});new MutationObserver(function(){sendAll();setTimeout(sendAll,400);}).observe(document.documentElement,{attributes:true,attributeFilter:[&quot;data-theme&quot;]});if(MQ.addEventListener)MQ.addEventListener(&quot;change&quot;,sendAll);})();
+&lt;/script&gt;</pre>
+  <button type="button" data-copy="snip0">Copia</button> <span class="r-sub ok"></span>
+
+  <h2><a href="muscolo-scheletrico/">Ossa e articolazioni, in Basilicata più di quattro ricoveri su dieci sono fuori regione</a></h2>
+  <p class="r-sub">Quota di ricoveri per l'apparato muscolo-scheletrico fuori regione nel Mezzogiorno e destinazioni per regione, 2024 (Svimez Tab. 5). Dati: <a href="data/muscolo-scheletrico-flussi.csv">data/muscolo-scheletrico-flussi.csv</a></p>
+  <div class="prev">
+    <figure><figcaption>Desktop (760px)</figcaption><iframe src="muscolo-scheletrico/" width="760" height="1250" title="Anteprima desktop"></iframe></figure>
+    <figure><figcaption>Mobile (360px)</figcaption><iframe src="muscolo-scheletrico/" width="360" height="1450" title="Anteprima mobile"></iframe></figure>
+  </div>
+  <p class="r-sub" style="margin-top:16px">Snippet per il CMS (iframe + script, da incollare così com'è):</p>
+  <pre id="snip1">&lt;iframe src=&quot;https://cosimofire.github.io/mobilita-sanitaria/muscolo-scheletrico/&quot; width=&quot;100%&quot; height=&quot;1400&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;Ossa e articolazioni, in Basilicata più di quattro ricoveri su dieci sono fuori regione&quot;&gt;&lt;/iframe&gt;
+&lt;script&gt;
+(function(){if(window.__radarQNv2)return;window.__radarQNv2=1;var O=&quot;https://cosimofire.github.io&quot;;var MQ=window.matchMedia(&quot;(prefers-color-scheme:dark)&quot;);function frames(){return Array.prototype.filter.call(document.getElementsByTagName(&quot;iframe&quot;),function(f){return(f.getAttribute(&quot;src&quot;)||&quot;&quot;).indexOf(O+&quot;/&quot;)===0;});}function theme(){var t=document.documentElement.getAttribute(&quot;data-theme&quot;);return t===&quot;dark&quot;||t===&quot;light&quot;?t:(MQ.matches?&quot;dark&quot;:&quot;light&quot;);}function bgOf(el){for(;el&amp;&amp;el.nodeType===1;el=el.parentElement){var c=getComputedStyle(el).backgroundColor;if(c&amp;&amp;c !==&quot;transparent&quot;&amp;&amp;!/rgba\([^)]*,\s*0\)$/.test(c))return c;}return null;}function send(f){try{f.contentWindow.postMessage({sentinel:&quot;radar-qn&quot;,type:&quot;theme&quot;,theme:theme(),bg:bgOf(f.parentElement)},O);}catch(e){}}function sendAll(){frames().forEach(send);}window.addEventListener(&quot;message&quot;,function(e){if(e.origin !==O)return;var d=e.data;if(!d||d.sentinel !==&quot;radar-qn&quot;||d.type !==&quot;height&quot;)return;frames().forEach(function(f){if(f.contentWindow !==e.source)return;var h=Math.ceil(+d.height);if(h &gt; 0&amp;&amp;20000 &gt; h)f.style.height=h+&quot;px&quot;;send(f);});});new MutationObserver(function(){sendAll();setTimeout(sendAll,400);}).observe(document.documentElement,{attributes:true,attributeFilter:[&quot;data-theme&quot;]});if(MQ.addEventListener)MQ.addEventListener(&quot;change&quot;,sendAll);})();
+&lt;/script&gt;</pre>
+  <button type="button" data-copy="snip1">Copia</button> <span class="r-sub ok"></span>
+
+</main>
+<script>
+document.querySelectorAll("[data-copy]").forEach(function (b) {
+  b.addEventListener("click", function () {
+    var ok = b.nextElementSibling, t = document.getElementById(b.getAttribute("data-copy")).textContent;
+    navigator.clipboard.writeText(t).then(function () { ok.textContent = "Copiato"; },
+      function () { ok.textContent = "Seleziona il testo e copialo a mano"; });
+  });
+});
+</script>
+</body>
+</html>
